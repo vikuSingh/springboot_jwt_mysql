@@ -43,7 +43,7 @@ b.) Successfull registration call authencation url:
       }
   ![Capture](https://github.com/vikuSingh/springboot_jwt_mysql/assets/20941580/9ae31d7b-0ce1-490b-a2b3-a10e02089c40)
 
-c.) Take jwtToek passed into header and call test api.
+c.) Take jwtToken passed into header and call test api.
 
       GET /test HTTP/1.1
       Host: localhost:8080
