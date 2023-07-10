@@ -57,8 +57,8 @@ c.) Take jwtToken passed into header and call test api.
        "username" : "vikash@gmail.com",
        "password" : "12345"
       }
-      
-    ![Capture](https://github.com/vikuSingh/springboot_jwt_mysql/assets/20941580/1f67954a-a1bd-4f9d-9ff5-25511ba63d43)
+   
+   ![Capture](https://github.com/vikuSingh/springboot_jwt_mysql/assets/20941580/1f67954a-a1bd-4f9d-9ff5-25511ba63d43)
 
   d.) Token get expired than call refreshToken api :
 
